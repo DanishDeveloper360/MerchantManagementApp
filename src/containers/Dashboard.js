@@ -4,9 +4,9 @@ export class Dashboard extends React.Component {
   render() {
     return (
       <div className="jumbotron">
-        <h1>Auto 1 Group</h1>
+        <h1>Merchant Management App</h1>
         <p>
-          Auto 1 Group Test Assignment
+          Merchant Management App Dashboard
         </p>
       </div>
     );
